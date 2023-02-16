@@ -11,7 +11,7 @@ mean_dist3 = 0;
 mean_dist4 = 0;
 
 % number of iterations over which results are averaged
-repeats = 1;
+repeats = 500;
 
 for m = 1:repeats
 
